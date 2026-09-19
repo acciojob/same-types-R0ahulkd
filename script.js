@@ -5,7 +5,6 @@ function isSameType(value1, value2) {
 	} else {
 		return false;
 	}
-
 }
 
 // do not change the code below.
